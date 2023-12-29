@@ -1,7 +1,7 @@
-credit-data
+creditcard
 ==============================
 
-pract[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C pracricing on credit card dataset.
+A credit card fraud detection project
 
 Project Organization
 ------------
